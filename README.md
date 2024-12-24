@@ -42,4 +42,4 @@ Fakultas Informatika
 Universitas Teknologi Digital Indonesia  
 2024 / 2025  
 <br>
-<img src="https://github.com/Fransis96/IBD-CLOUD/blob/master/utdi321.jpg" width="350" height="80">  
+<img src="https://github.com/Fransis96/IBD-CLOUD/blob/master/utdi321.jpg" width="300" height="80">  
